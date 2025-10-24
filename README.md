@@ -22,16 +22,19 @@ I carried out the following tasks for this project-
 - Set measurable objectives aligned to commercial outcomes.
 
 ### 2. Data Understanding  
-- Imported purchase behaviour and transaction datasets.  
-- Established a data dictionary and profile of variables (Lifestage, Premium Customer, brand, pack size, etc.).  
+- Imported purchase behaviour and transaction datasets.
+- Installed the necessary libraries and loaded the datasets. Used readxl to load the Excel file while the read.csv function was used to load the CSV file.  
+- Established a data dictionary and profile of variables (Lifestage, Premium Customer, brand, pack size, etc.).
+- checked the structure and summary of the datasets.
 
 ### 3. Data Preparation  
-- Cleaned and merged datasets into `merged_data.csv`.  
+- Cleaned and merged datasets into `merged_data.csv`.
+- Visualized the cleaned TOT_SALES data. 
 - Created derived fields (e.g., pack size and brand name).  
 - Structured customer-level and store-level metrics.
 
 ### 4. Exploratory Data Analysis (EDA)  
-- Analysed key trends by Lifestage and affluence segments.  
+- Analysed key trends by Lifestage, Premium_Customer, and purchasing behaviour segments.  
 - Visualised distribution of spend, transaction size and pack size preferences.
 
 ### 5. Customer Segmentation  
