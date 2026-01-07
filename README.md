@@ -1,16 +1,12 @@
 # Quantium Customer Segmentation & Store Trial Analysis with R
 
 ## Project Overview  
-This project, completed as part of the Quantium Data Analytics Virtual Experience Program via Forage, uses transactional data to:  
-- Understand chip-category purchasing behaviour across customer segments.  
-- Identify high-value customer segments (by Lifestage and Affluence).  
-- Evaluate the impact of a new store layout trial (stores 77, 86, 88) via uplift testing.  
-- Deliver strategic, data-driven recommendations to the Category Manager.
-
----
+This project analyzes customer purchasing behavior to identify key customer segments and evaluate the performance of a new store layout trial.  
+As part of Quantium’s Data Analytics program, the goal is to provide **data-driven commercial insights** and a **strategic recommendation** for the Category Manager to optimize sales performance in the chips category.
 
 ## Business Objective  
-To provide the Category Manager with actionable insights into who spends on chips, why they spend, and whether a store layout trial should be scaled—all grounded in the metrics of total sales revenue, number of customers, and average transactions per customer.
+To understand customer purchasing behavior and determine which segments drive the highest sales, while also assessing the effectiveness of a new trial layout in selected stores (77, 86, and 88).  
+The insights will support strategic decisions on marketing, product placement, and store expansion.
 
 ---
 
