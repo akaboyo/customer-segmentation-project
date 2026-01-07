@@ -37,7 +37,7 @@ I carried out the following tasks for this project-
 - Derived customer segments using spend, frequency and size metrics.  
 - Profiled segments and identified high-value groups (Older Families, Young Professionals, Premium & Budget Affluent).
 
-### 6. Store Trial Performance Analysis  
+### 6. Trial Store Performance Analysis  
 - Matched trial stores (77, 86, 88) with control stores using correlation/magnitude distance.  
 - Tested store performance during the trial period (Feb – Apr 2089) on total sales, customers and transactions per customer.  
 - Visualised and interpreted results to assess uplift.
